@@ -1,0 +1,731 @@
+Date,Sales,Stocks,Price,Category,Region,Payment_Mode
+2022-01-01,519.87,899,24.89,Accessories,Maharashtra,EMI
+2022-01-02,552.19,809,24.04,Accessories,Uttar Pradesh,EMI
+2022-01-03,600.14,864,24.88,Clothing,Maharashtra,Credit Card
+2022-01-04,600.27,737,24.39,Clothing,Maharashtra,Debit Card
+2022-01-05,472.23,978,24.62,Accessories,Maharashtra,COD
+2022-01-06,437.34,965,25.58,Accessories,Karnataka,EMI
+2022-01-07,526.37,899,26.47,Clothing,Karnataka,COD
+2022-01-08,551.61,927,25.47,Electronics,Madhya Pradesh,COD
+2022-01-09,559.83,964,24.22,Clothing,Uttar Pradesh,COD
+2022-01-10,616.8,890,25.55,Electronics,Uttar Pradesh,COD
+2022-01-11,541.64,764,26.18,Clothing,Maharashtra,UPI
+2022-01-12,483.76,832,24.75,Clothing,Karnataka,UPI
+2022-01-13,477.14,876,25.16,Furniture,Maharashtra,Credit Card
+2022-01-14,407.38,957,25.3,Home Decor,Uttar Pradesh,UPI
+2022-01-15,472.57,947,24.68,Clothing,Maharashtra,Credit Card
+2022-01-16,576.71,810,25.85,Furniture,Maharashtra,UPI
+2022-01-17,575.11,866,25.25,Clothing,Karnataka,EMI
+2022-01-18,593.21,798,25.7,Electronics,Delhi,Credit Card
+2022-01-19,486.45,871,24.68,Clothing,Delhi,EMI
+2022-01-20,431.27,856,25.06,Accessories,Uttar Pradesh,Credit Card
+2022-01-21,562.76,806,26.01,Home Decor,Maharashtra,Debit Card
+2022-01-22,552.66,787,25.15,Clothing,Uttar Pradesh,UPI
+2022-01-23,621.94,768,26.85,Electronics,Karnataka,UPI
+2022-01-24,578.57,916,25.17,Clothing,Maharashtra,UPI
+2022-01-25,578.7,795,25.69,Electronics,Maharashtra,COD
+2022-01-26,546.93,1029,26.27,Clothing,Karnataka,Debit Card
+2022-01-27,461.33,952,24.41,Clothing,Uttar Pradesh,Debit Card
+2022-01-28,538.65,887,24.16,Home Decor,Maharashtra,Credit Card
+2022-01-29,557.03,814,24.36,Accessories,Karnataka,COD
+2022-01-30,626.8,865,26.61,Clothing,Delhi,Credit Card
+2022-01-31,630.59,787,25.18,Clothing,Maharashtra,Debit Card
+2022-02-01,693.52,791,27.68,Electronics,Madhya Pradesh,COD
+2022-02-02,560.77,1017,25.2,Clothing,Maharashtra,UPI
+2022-02-03,483.73,903,25.82,Accessories,Madhya Pradesh,Credit Card
+2022-02-04,575.03,923,26.92,Home Decor,Delhi,Credit Card
+2022-02-05,550.57,827,27.31,Furniture,Delhi,COD
+2022-02-06,665.02,798,27.37,Electronics,Delhi,Debit Card
+2022-02-07,594.29,949,26.7,Clothing,Madhya Pradesh,UPI
+2022-02-08,584.15,811,26.57,Electronics,Delhi,UPI
+2022-02-09,586.86,956,26.24,Clothing,Madhya Pradesh,UPI
+2022-02-10,573.07,898,26.4,Accessories,Maharashtra,Credit Card
+2022-02-11,566.29,826,25.35,Clothing,Maharashtra,UPI
+2022-02-12,611.9,870,25.15,Furniture,Karnataka,UPI
+2022-02-13,661.55,861,25.81,Furniture,Uttar Pradesh,COD
+2022-02-14,630.27,859,25.69,Clothing,Madhya Pradesh,Credit Card
+2022-02-15,625.02,730,25.48,Furniture,Delhi,UPI
+2022-02-16,576.88,810,26.41,Clothing,Karnataka,COD
+2022-02-17,601.93,823,26.63,Accessories,Delhi,Credit Card
+2022-02-18,589.08,842,25.95,Clothing,Uttar Pradesh,UPI
+2022-02-19,561.69,900,27.07,Clothing,Uttar Pradesh,UPI
+2022-02-20,702.01,789,24.98,Home Decor,Uttar Pradesh,EMI
+2022-02-21,689.24,706,25.75,Electronics,Maharashtra,Debit Card
+2022-02-22,641.74,837,25.34,Clothing,Uttar Pradesh,COD
+2022-02-23,634.55,855,24.43,Electronics,Madhya Pradesh,Debit Card
+2022-02-24,615.42,864,25.87,Clothing,Karnataka,COD
+2022-02-25,626.89,888,25.84,Furniture,Uttar Pradesh,Credit Card
+2022-02-26,612.7,882,27.16,Accessories,Uttar Pradesh,COD
+2022-02-27,690.49,813,26.46,Accessories,Maharashtra,COD
+2022-02-28,731.46,756,25.14,Electronics,Madhya Pradesh,Credit Card
+2022-03-01,721.15,667,27.45,Accessories,Delhi,COD
+2022-03-02,603.97,863,26.95,Furniture,Uttar Pradesh,EMI
+2022-03-03,579.55,864,26.44,Clothing,Madhya Pradesh,UPI
+2022-03-04,557.92,881,25.8,Home Decor,Uttar Pradesh,Credit Card
+2022-03-05,610.69,756,25.22,Electronics,Delhi,UPI
+2022-03-06,747.36,686,25.69,Furniture,Karnataka,Credit Card
+2022-03-07,784.19,792,26.86,Clothing,Uttar Pradesh,COD
+2022-03-08,690.7,783,27.5,Clothing,Karnataka,UPI
+2022-03-09,674.46,836,27.23,Clothing,Uttar Pradesh,COD
+2022-03-10,612.35,834,25.61,Electronics,Delhi,Debit Card
+2022-03-11,586.99,849,25.1,Clothing,Maharashtra,COD
+2022-03-12,683.34,846,26.11,Electronics,Madhya Pradesh,UPI
+2022-03-13,786.45,697,24.59,Accessories,Uttar Pradesh,COD
+2022-03-14,738.28,762,26.26,Clothing,Uttar Pradesh,Debit Card
+2022-03-15,765.66,712,25.88,Home Decor,Karnataka,UPI
+2022-03-16,538.73,850,25.62,Furniture,Maharashtra,Debit Card
+2022-03-17,639.66,797,24.72,Clothing,Madhya Pradesh,Credit Card
+2022-03-18,624.89,838,26.4,Furniture,Madhya Pradesh,COD
+2022-03-19,665.24,772,25.56,Clothing,Maharashtra,COD
+2022-03-20,736.61,833,25.05,Clothing,Madhya Pradesh,COD
+2022-03-21,667.93,745,23.69,Clothing,Maharashtra,Credit Card
+2022-03-22,701.7,767,25.96,Accessories,Uttar Pradesh,COD
+2022-03-23,664.92,774,27.39,Furniture,Maharashtra,Credit Card
+2022-03-24,672.72,883,27.3,Home Decor,Maharashtra,UPI
+2022-03-25,607.19,847,25.6,Clothing,Madhya Pradesh,EMI
+2022-03-26,651.06,871,25.47,Electronics,Madhya Pradesh,UPI
+2022-03-27,718.77,679,26.32,Accessories,Maharashtra,Credit Card
+2022-03-28,789.64,742,25.14,Furniture,Uttar Pradesh,Credit Card
+2022-03-29,728.92,816,26.18,Clothing,Madhya Pradesh,UPI
+2022-03-30,634.42,824,26.54,Clothing,Madhya Pradesh,UPI
+2022-03-31,638.8,880,26.9,Clothing,Uttar Pradesh,EMI
+2022-04-01,636.16,787,25.83,Furniture,Maharashtra,UPI
+2022-04-02,726.19,848,25.74,Accessories,Maharashtra,UPI
+2022-04-03,714.49,909,25.19,Clothing,Uttar Pradesh,Debit Card
+2022-04-04,743.34,732,25.22,Clothing,Maharashtra,EMI
+2022-04-05,703.2,751,25.69,Clothing,Uttar Pradesh,COD
+2022-04-06,599.87,927,26.15,Furniture,Madhya Pradesh,UPI
+2022-04-07,632.6,915,26.58,Clothing,Delhi,EMI
+2022-04-08,644.9,781,25.19,Electronics,Maharashtra,EMI
+2022-04-09,689.52,761,27.02,Furniture,Delhi,UPI
+2022-04-10,734.75,742,25.59,Clothing,Uttar Pradesh,COD
+2022-04-11,701.08,698,25.78,Clothing,Maharashtra,Debit Card
+2022-04-12,703.0,723,25.18,Clothing,Madhya Pradesh,EMI
+2022-04-13,645.33,752,23.83,Clothing,Delhi,UPI
+2022-04-14,588.99,800,26.46,Furniture,Karnataka,UPI
+2022-04-15,628.02,821,26.33,Electronics,Madhya Pradesh,UPI
+2022-04-16,705.19,790,25.5,Furniture,Karnataka,Credit Card
+2022-04-17,818.99,801,25.76,Clothing,Madhya Pradesh,COD
+2022-04-18,763.78,681,26.1,Electronics,Uttar Pradesh,Debit Card
+2022-04-19,728.93,821,24.43,Furniture,Maharashtra,COD
+2022-04-20,654.56,794,25.24,Electronics,Maharashtra,COD
+2022-04-21,542.53,871,26.28,Furniture,Maharashtra,UPI
+2022-04-22,631.3,861,24.62,Clothing,Maharashtra,UPI
+2022-04-23,689.03,719,25.84,Electronics,Madhya Pradesh,COD
+2022-04-24,839.37,719,24.5,Furniture,Uttar Pradesh,UPI
+2022-04-25,746.11,762,25.94,Accessories,Delhi,COD
+2022-04-26,727.4,793,25.52,Home Decor,Karnataka,Debit Card
+2022-04-27,652.57,825,24.24,Clothing,Uttar Pradesh,COD
+2022-04-28,568.66,1006,26.45,Furniture,Madhya Pradesh,UPI
+2022-04-29,673.92,757,24.91,Clothing,Karnataka,Debit Card
+2022-04-30,712.26,740,24.83,Clothing,Maharashtra,Credit Card
+2022-05-01,767.75,701,25.62,Accessories,Uttar Pradesh,COD
+2022-05-02,712.42,739,26.36,Clothing,Uttar Pradesh,UPI
+2022-05-03,766.16,702,24.6,Furniture,Madhya Pradesh,Credit Card
+2022-05-04,592.32,915,25.45,Furniture,Karnataka,UPI
+2022-05-05,633.05,905,25.72,Home Decor,Maharashtra,Credit Card
+2022-05-06,709.72,739,25.91,Electronics,Madhya Pradesh,Debit Card
+2022-05-07,636.18,768,25.48,Electronics,Madhya Pradesh,EMI
+2022-05-08,706.82,804,25.02,Electronics,Delhi,Credit Card
+2022-05-09,745.88,719,24.63,Furniture,Maharashtra,UPI
+2022-05-10,682.75,828,25.34,Electronics,Maharashtra,UPI
+2022-05-11,578.95,864,24.39,Furniture,Delhi,COD
+2022-05-12,604.64,746,22.89,Furniture,Maharashtra,UPI
+2022-05-13,571.68,949,25.56,Clothing,Maharashtra,Debit Card
+2022-05-14,686.58,895,25.91,Clothing,Madhya Pradesh,Credit Card
+2022-05-15,684.28,752,23.27,Home Decor,Delhi,Credit Card
+2022-05-16,795.23,699,24.33,Accessories,Karnataka,Credit Card
+2022-05-17,662.66,819,25.61,Clothing,Madhya Pradesh,EMI
+2022-05-18,618.96,848,26.74,Accessories,Maharashtra,Credit Card
+2022-05-19,625.08,864,25.09,Clothing,Madhya Pradesh,UPI
+2022-05-20,555.35,987,24.47,Accessories,Uttar Pradesh,COD
+2022-05-21,666.92,789,24.88,Accessories,Uttar Pradesh,Credit Card
+2022-05-22,763.31,694,26.11,Furniture,Maharashtra,COD
+2022-05-23,658.69,722,24.47,Electronics,Uttar Pradesh,UPI
+2022-05-24,690.92,741,24.32,Electronics,Maharashtra,UPI
+2022-05-25,631.58,819,24.56,Furniture,Uttar Pradesh,Debit Card
+2022-05-26,612.94,939,24.16,Electronics,Maharashtra,UPI
+2022-05-27,544.04,842,25.0,Electronics,Delhi,UPI
+2022-05-28,593.74,857,26.17,Clothing,Maharashtra,UPI
+2022-05-29,720.45,766,25.11,Clothing,Uttar Pradesh,UPI
+2022-05-30,723.23,837,24.63,Electronics,Madhya Pradesh,UPI
+2022-05-31,681.73,942,24.58,Clothing,Karnataka,Debit Card
+2022-06-01,623.04,794,23.54,Clothing,Madhya Pradesh,Credit Card
+2022-06-02,542.29,845,25.47,Clothing,Uttar Pradesh,COD
+2022-06-03,590.47,908,24.68,Electronics,Madhya Pradesh,Credit Card
+2022-06-04,645.77,853,24.58,Accessories,Uttar Pradesh,Debit Card
+2022-06-05,658.33,915,27.26,Electronics,Uttar Pradesh,UPI
+2022-06-06,773.15,771,24.92,Clothing,Maharashtra,COD
+2022-06-07,677.68,771,24.06,Clothing,Madhya Pradesh,COD
+2022-06-08,548.4,906,24.3,Clothing,Madhya Pradesh,Credit Card
+2022-06-09,582.49,917,25.54,Electronics,Delhi,UPI
+2022-06-10,528.78,931,24.69,Clothing,Uttar Pradesh,Debit Card
+2022-06-11,652.0,839,23.43,Furniture,Maharashtra,UPI
+2022-06-12,719.58,832,25.29,Furniture,Madhya Pradesh,COD
+2022-06-13,651.91,879,24.0,Home Decor,Delhi,Credit Card
+2022-06-14,683.36,872,26.02,Clothing,Delhi,Credit Card
+2022-06-15,598.55,879,25.36,Electronics,Delhi,COD
+2022-06-16,574.98,844,24.12,Clothing,Maharashtra,Credit Card
+2022-06-17,629.42,831,25.49,Home Decor,Karnataka,UPI
+2022-06-18,596.37,914,24.5,Electronics,Delhi,Credit Card
+2022-06-19,628.67,773,25.11,Clothing,Karnataka,UPI
+2022-06-20,634.65,841,24.79,Furniture,Maharashtra,Credit Card
+2022-06-21,597.61,817,23.71,Home Decor,Madhya Pradesh,EMI
+2022-06-22,564.29,863,23.86,Clothing,Madhya Pradesh,UPI
+2022-06-23,541.02,952,25.18,Clothing,Madhya Pradesh,UPI
+2022-06-24,549.81,881,24.07,Clothing,Madhya Pradesh,COD
+2022-06-25,624.42,828,24.0,Furniture,Uttar Pradesh,UPI
+2022-06-26,644.43,731,23.54,Clothing,Uttar Pradesh,Credit Card
+2022-06-27,713.41,816,24.63,Electronics,Delhi,COD
+2022-06-28,604.64,875,25.92,Clothing,Maharashtra,COD
+2022-06-29,661.13,933,23.4,Clothing,Delhi,COD
+2022-06-30,537.31,859,24.26,Home Decor,Madhya Pradesh,UPI
+2022-07-01,489.34,919,25.36,Furniture,Uttar Pradesh,COD
+2022-07-02,533.35,894,24.15,Electronics,Maharashtra,COD
+2022-07-03,648.04,905,24.56,Furniture,Karnataka,COD
+2022-07-04,631.15,815,23.34,Clothing,Uttar Pradesh,COD
+2022-07-05,628.61,839,24.52,Clothing,Uttar Pradesh,UPI
+2022-07-06,556.07,902,24.01,Clothing,Uttar Pradesh,UPI
+2022-07-07,494.19,914,24.94,Clothing,Madhya Pradesh,UPI
+2022-07-08,474.59,888,25.09,Clothing,Madhya Pradesh,EMI
+2022-07-09,500.44,911,26.2,Clothing,Maharashtra,UPI
+2022-07-10,595.74,906,24.58,Furniture,Madhya Pradesh,COD
+2022-07-11,659.23,742,24.37,Furniture,Delhi,UPI
+2022-07-12,593.53,851,24.25,Furniture,Maharashtra,EMI
+2022-07-13,472.26,874,23.81,Furniture,Madhya Pradesh,UPI
+2022-07-14,489.02,978,24.35,Electronics,Uttar Pradesh,UPI
+2022-07-15,508.9,803,23.83,Clothing,Maharashtra,COD
+2022-07-16,510.76,860,24.2,Home Decor,Delhi,COD
+2022-07-17,604.89,859,25.11,Electronics,Maharashtra,COD
+2022-07-18,612.5,926,23.24,Clothing,Madhya Pradesh,UPI
+2022-07-19,524.51,881,24.95,Clothing,Maharashtra,COD
+2022-07-20,521.74,853,25.09,Clothing,Uttar Pradesh,UPI
+2022-07-21,489.94,1018,23.94,Furniture,Madhya Pradesh,COD
+2022-07-22,522.31,799,22.33,Accessories,Madhya Pradesh,EMI
+2022-07-23,573.85,723,23.53,Accessories,Delhi,COD
+2022-07-24,529.31,908,25.05,Clothing,Uttar Pradesh,UPI
+2022-07-25,558.44,834,23.99,Electronics,Karnataka,Credit Card
+2022-07-26,576.71,792,23.21,Furniture,Delhi,COD
+2022-07-27,513.96,934,23.6,Accessories,Maharashtra,UPI
+2022-07-28,474.2,930,24.68,Clothing,Maharashtra,UPI
+2022-07-29,619.31,794,24.44,Clothing,Delhi,Debit Card
+2022-07-30,540.87,798,23.81,Clothing,Uttar Pradesh,UPI
+2022-07-31,616.31,882,23.71,Electronics,Delhi,Debit Card
+2022-08-01,620.71,866,23.69,Home Decor,Maharashtra,COD
+2022-08-02,568.9,852,23.26,Furniture,Uttar Pradesh,Debit Card
+2022-08-03,467.67,1030,25.29,Accessories,Uttar Pradesh,Debit Card
+2022-08-04,470.98,853,23.74,Accessories,Delhi,Credit Card
+2022-08-05,421.46,855,24.98,Furniture,Madhya Pradesh,UPI
+2022-08-06,495.89,860,25.22,Clothing,Karnataka,EMI
+2022-08-07,538.96,873,24.81,Clothing,Madhya Pradesh,UPI
+2022-08-08,573.48,870,23.67,Accessories,Karnataka,Debit Card
+2022-08-09,623.25,811,24.34,Home Decor,Uttar Pradesh,Debit Card
+2022-08-10,393.59,984,24.0,Electronics,Madhya Pradesh,COD
+2022-08-11,456.25,851,23.3,Furniture,Madhya Pradesh,EMI
+2022-08-12,376.22,1060,24.29,Electronics,Madhya Pradesh,COD
+2022-08-13,475.03,910,23.09,Furniture,Uttar Pradesh,UPI
+2022-08-14,590.67,912,24.99,Electronics,Uttar Pradesh,Debit Card
+2022-08-15,561.7,883,23.68,Electronics,Uttar Pradesh,Credit Card
+2022-08-16,476.69,941,24.22,Furniture,Delhi,UPI
+2022-08-17,429.01,976,24.29,Electronics,Delhi,Debit Card
+2022-08-18,445.53,959,23.86,Furniture,Delhi,COD
+2022-08-19,401.27,997,24.55,Accessories,Madhya Pradesh,Credit Card
+2022-08-20,492.54,984,23.71,Clothing,Maharashtra,Debit Card
+2022-08-21,539.12,888,24.79,Clothing,Karnataka,Debit Card
+2022-08-22,523.48,928,23.03,Clothing,Madhya Pradesh,UPI
+2022-08-23,596.19,836,24.22,Electronics,Madhya Pradesh,UPI
+2022-08-24,473.85,1002,25.68,Furniture,Delhi,COD
+2022-08-25,328.44,962,23.34,Furniture,Maharashtra,COD
+2022-08-26,429.29,1050,23.61,Accessories,Maharashtra,COD
+2022-08-27,448.99,928,24.57,Clothing,Delhi,EMI
+2022-08-28,563.23,776,24.32,Electronics,Delhi,Debit Card
+2022-08-29,509.92,901,24.47,Accessories,Madhya Pradesh,COD
+2022-08-30,498.17,860,24.59,Electronics,Madhya Pradesh,UPI
+2022-08-31,461.27,973,24.72,Accessories,Delhi,COD
+2022-09-01,436.91,898,25.11,Accessories,Maharashtra,Credit Card
+2022-09-02,366.92,953,24.57,Electronics,Maharashtra,UPI
+2022-09-03,455.44,813,24.06,Clothing,Maharashtra,UPI
+2022-09-04,503.76,870,24.81,Electronics,Maharashtra,EMI
+2022-09-05,509.38,748,25.81,Home Decor,Karnataka,Credit Card
+2022-09-06,567.54,764,24.2,Clothing,Delhi,Credit Card
+2022-09-07,451.71,974,23.54,Clothing,Maharashtra,UPI
+2022-09-08,346.56,1039,25.22,Clothing,Madhya Pradesh,COD
+2022-09-09,446.63,957,24.26,Electronics,Maharashtra,COD
+2022-09-10,548.98,812,22.63,Electronics,Madhya Pradesh,COD
+2022-09-11,559.61,861,25.06,Electronics,Maharashtra,Credit Card
+2022-09-12,470.58,917,23.98,Clothing,Uttar Pradesh,COD
+2022-09-13,473.69,846,24.35,Electronics,Uttar Pradesh,Debit Card
+2022-09-14,482.6,1000,24.71,Electronics,Uttar Pradesh,UPI
+2022-09-15,365.4,1033,24.61,Clothing,Maharashtra,Credit Card
+2022-09-16,424.68,931,25.05,Clothing,Delhi,UPI
+2022-09-17,492.38,906,24.15,Clothing,Madhya Pradesh,COD
+2022-09-18,478.83,925,24.93,Clothing,Uttar Pradesh,COD
+2022-09-19,526.87,761,24.33,Accessories,Madhya Pradesh,Debit Card
+2022-09-20,361.6,968,25.15,Home Decor,Karnataka,COD
+2022-09-21,389.44,925,25.07,Clothing,Maharashtra,Credit Card
+2022-09-22,382.4,910,23.85,Furniture,Madhya Pradesh,Credit Card
+2022-09-23,356.11,969,25.48,Home Decor,Madhya Pradesh,COD
+2022-09-24,526.09,992,24.21,Clothing,Madhya Pradesh,Credit Card
+2022-09-25,458.41,963,25.3,Home Decor,Maharashtra,UPI
+2022-09-26,511.67,858,24.97,Accessories,Maharashtra,Debit Card
+2022-09-27,496.8,936,26.17,Clothing,Madhya Pradesh,Debit Card
+2022-09-28,488.7,990,24.54,Clothing,Uttar Pradesh,Credit Card
+2022-09-29,336.01,1053,24.46,Furniture,Maharashtra,Debit Card
+2022-09-30,453.8,931,24.75,Electronics,Maharashtra,UPI
+2022-10-01,462.77,883,24.54,Electronics,Delhi,UPI
+2022-10-02,478.23,954,25.45,Accessories,Karnataka,Debit Card
+2022-10-03,549.93,893,23.54,Electronics,Madhya Pradesh,COD
+2022-10-04,502.03,952,24.01,Clothing,Maharashtra,Debit Card
+2022-10-05,409.85,992,24.02,Home Decor,Delhi,UPI
+2022-10-06,399.35,1023,25.66,Furniture,Maharashtra,UPI
+2022-10-07,395.29,930,26.29,Accessories,Maharashtra,UPI
+2022-10-08,470.63,996,24.86,Electronics,Delhi,COD
+2022-10-09,548.02,883,24.83,Furniture,Delhi,UPI
+2022-10-10,599.25,964,25.04,Clothing,Madhya Pradesh,UPI
+2022-10-11,449.22,889,25.94,Clothing,Karnataka,UPI
+2022-10-12,524.15,989,24.29,Clothing,Maharashtra,UPI
+2022-10-13,323.76,1017,25.24,Accessories,Madhya Pradesh,Credit Card
+2022-10-14,410.22,914,25.85,Home Decor,Maharashtra,Credit Card
+2022-10-15,495.52,873,25.5,Clothing,Uttar Pradesh,EMI
+2022-10-16,538.98,857,25.27,Home Decor,Madhya Pradesh,COD
+2022-10-17,517.41,915,25.94,Electronics,Maharashtra,UPI
+2022-10-18,497.22,933,23.0,Clothing,Madhya Pradesh,Debit Card
+2022-10-19,426.23,909,25.72,Accessories,Madhya Pradesh,Debit Card
+2022-10-20,385.69,967,24.68,Electronics,Maharashtra,Debit Card
+2022-10-21,457.99,1053,23.76,Clothing,Delhi,UPI
+2022-10-22,494.29,1007,25.66,Electronics,Madhya Pradesh,UPI
+2022-10-23,508.34,921,26.37,Electronics,Uttar Pradesh,UPI
+2022-10-24,586.91,850,25.18,Furniture,Maharashtra,UPI
+2022-10-25,526.74,891,26.07,Clothing,Delhi,Credit Card
+2022-10-26,487.66,944,26.62,Home Decor,Maharashtra,COD
+2022-10-27,443.93,872,26.41,Clothing,Uttar Pradesh,Debit Card
+2022-10-28,400.62,944,26.69,Accessories,Madhya Pradesh,UPI
+2022-10-29,467.66,819,25.99,Electronics,Delhi,Debit Card
+2022-10-30,576.29,878,25.48,Home Decor,Maharashtra,Credit Card
+2022-10-31,585.97,887,24.15,Electronics,Karnataka,COD
+2022-11-01,524.52,856,25.26,Accessories,Maharashtra,Debit Card
+2022-11-02,471.02,1011,24.8,Furniture,Madhya Pradesh,COD
+2022-11-03,481.32,837,27.23,Accessories,Delhi,COD
+2022-11-04,421.85,859,25.37,Clothing,Maharashtra,EMI
+2022-11-05,523.96,899,25.63,Electronics,Uttar Pradesh,COD
+2022-11-06,550.58,932,25.99,Furniture,Karnataka,Credit Card
+2022-11-07,565.38,961,25.6,Clothing,Maharashtra,Credit Card
+2022-11-08,582.1,823,26.94,Clothing,Madhya Pradesh,COD
+2022-11-09,512.4,957,25.11,Accessories,Maharashtra,Credit Card
+2022-11-10,476.06,912,25.78,Accessories,Maharashtra,UPI
+2022-11-11,511.3,882,25.05,Electronics,Uttar Pradesh,UPI
+2022-11-12,516.72,942,24.6,Accessories,Madhya Pradesh,Debit Card
+2022-11-13,600.0,879,25.18,Clothing,Madhya Pradesh,COD
+2022-11-14,575.97,759,25.66,Home Decor,Delhi,Debit Card
+2022-11-15,565.66,949,25.36,Accessories,Delhi,COD
+2022-11-16,488.95,989,25.17,Electronics,Maharashtra,UPI
+2022-11-17,462.4,885,24.61,Furniture,Madhya Pradesh,Credit Card
+2022-11-18,498.12,924,25.68,Accessories,Delhi,EMI
+2022-11-19,498.61,930,24.56,Clothing,Uttar Pradesh,UPI
+2022-11-20,672.1,812,26.39,Electronics,Maharashtra,Credit Card
+2022-11-21,564.04,828,25.86,Clothing,Delhi,UPI
+2022-11-22,520.23,847,24.64,Furniture,Madhya Pradesh,UPI
+2022-11-23,556.8,864,25.57,Clothing,Maharashtra,Debit Card
+2022-11-24,506.72,966,25.23,Clothing,Maharashtra,UPI
+2022-11-25,516.01,923,26.1,Clothing,Karnataka,Credit Card
+2022-11-26,573.4,833,26.93,Furniture,Uttar Pradesh,EMI
+2022-11-27,605.04,883,24.37,Home Decor,Uttar Pradesh,COD
+2022-11-28,585.7,677,25.97,Accessories,Madhya Pradesh,Credit Card
+2022-11-29,589.33,915,25.76,Electronics,Delhi,COD
+2022-11-30,501.07,794,26.44,Electronics,Uttar Pradesh,Credit Card
+2022-12-01,531.91,859,26.08,Electronics,Karnataka,UPI
+2022-12-02,503.18,830,25.32,Electronics,Uttar Pradesh,COD
+2022-12-03,533.44,802,25.67,Electronics,Uttar Pradesh,Debit Card
+2022-12-04,611.02,903,25.3,Electronics,Maharashtra,Debit Card
+2022-12-05,656.62,777,26.8,Clothing,Karnataka,COD
+2022-12-06,582.41,871,25.97,Accessories,Maharashtra,EMI
+2022-12-07,514.08,888,27.48,Clothing,Madhya Pradesh,UPI
+2022-12-08,521.61,915,25.91,Electronics,Uttar Pradesh,Credit Card
+2022-12-09,537.96,881,25.4,Clothing,Uttar Pradesh,UPI
+2022-12-10,565.42,783,24.76,Clothing,Madhya Pradesh,COD
+2022-12-11,624.4,885,24.54,Home Decor,Madhya Pradesh,Credit Card
+2022-12-12,668.87,769,24.72,Clothing,Delhi,Credit Card
+2022-12-13,566.64,766,26.2,Clothing,Maharashtra,Credit Card
+2022-12-14,510.39,868,26.4,Clothing,Delhi,UPI
+2022-12-15,502.95,988,24.73,Clothing,Delhi,COD
+2022-12-16,539.56,927,26.71,Clothing,Madhya Pradesh,Credit Card
+2022-12-17,618.17,808,25.61,Accessories,Maharashtra,EMI
+2022-12-18,722.39,745,26.12,Furniture,Madhya Pradesh,UPI
+2022-12-19,714.12,752,27.29,Clothing,Madhya Pradesh,UPI
+2022-12-20,638.48,941,26.72,Furniture,Karnataka,Debit Card
+2022-12-21,586.31,871,25.79,Furniture,Maharashtra,Credit Card
+2022-12-22,512.05,918,25.29,Electronics,Uttar Pradesh,EMI
+2022-12-23,567.89,921,24.28,Furniture,Maharashtra,Credit Card
+2022-12-24,614.78,845,25.42,Clothing,Madhya Pradesh,COD
+2022-12-25,696.93,766,25.83,Home Decor,Uttar Pradesh,Credit Card
+2022-12-26,667.43,787,25.2,Clothing,Maharashtra,Credit Card
+2022-12-27,686.4,783,25.88,Clothing,Uttar Pradesh,COD
+2022-12-28,669.18,796,26.05,Electronics,Madhya Pradesh,UPI
+2022-12-29,568.63,902,25.8,Electronics,Delhi,UPI
+2022-12-30,605.56,839,25.46,Clothing,Maharashtra,COD
+2022-12-31,674.82,839,26.11,Clothing,Maharashtra,Debit Card
+2023-01-01,688.89,781,26.32,Furniture,Karnataka,UPI
+2023-01-02,730.41,766,25.09,Accessories,Karnataka,EMI
+2023-01-03,687.07,667,27.08,Furniture,Uttar Pradesh,Credit Card
+2023-01-04,632.72,875,25.87,Home Decor,Madhya Pradesh,COD
+2023-01-05,563.01,882,25.96,Clothing,Uttar Pradesh,COD
+2023-01-06,611.41,893,26.5,Electronics,Delhi,Debit Card
+2023-01-07,688.06,613,26.11,Home Decor,Madhya Pradesh,Credit Card
+2023-01-08,783.89,854,26.68,Accessories,Maharashtra,COD
+2023-01-09,780.71,723,26.14,Clothing,Madhya Pradesh,Credit Card
+2023-01-10,793.55,790,25.41,Clothing,Madhya Pradesh,UPI
+2023-01-11,618.95,766,26.18,Clothing,Maharashtra,EMI
+2023-01-12,649.61,846,24.96,Accessories,Madhya Pradesh,COD
+2023-01-13,638.52,753,25.95,Clothing,Uttar Pradesh,COD
+2023-01-14,776.44,696,25.83,Accessories,Madhya Pradesh,COD
+2023-01-15,714.16,886,25.68,Clothing,Karnataka,UPI
+2023-01-16,729.34,750,25.73,Furniture,Uttar Pradesh,COD
+2023-01-17,703.98,790,24.31,Electronics,Karnataka,UPI
+2023-01-18,585.15,901,25.37,Furniture,Maharashtra,Credit Card
+2023-01-19,614.08,861,25.87,Clothing,Madhya Pradesh,UPI
+2023-01-20,621.12,836,25.91,Electronics,Madhya Pradesh,COD
+2023-01-21,715.08,792,24.94,Accessories,Maharashtra,Credit Card
+2023-01-22,780.3,876,26.76,Electronics,Maharashtra,COD
+2023-01-23,858.01,681,25.04,Furniture,Maharashtra,UPI
+2023-01-24,785.91,740,26.49,Electronics,Delhi,EMI
+2023-01-25,666.86,862,26.05,Electronics,Maharashtra,COD
+2023-01-26,618.89,894,25.17,Accessories,Madhya Pradesh,UPI
+2023-01-27,690.77,856,27.09,Electronics,Uttar Pradesh,Credit Card
+2023-01-28,675.74,832,24.7,Electronics,Uttar Pradesh,UPI
+2023-01-29,859.25,615,26.37,Home Decor,Madhya Pradesh,UPI
+2023-01-30,849.37,788,26.42,Clothing,Madhya Pradesh,EMI
+2023-01-31,748.22,682,25.07,Clothing,Maharashtra,COD
+2023-02-01,640.37,833,26.7,Clothing,Karnataka,Credit Card
+2023-02-02,727.8,718,25.37,Clothing,Maharashtra,Credit Card
+2023-02-03,685.18,785,25.78,Home Decor,Delhi,UPI
+2023-02-04,796.58,741,25.74,Clothing,Delhi,EMI
+2023-02-05,740.57,774,25.4,Electronics,Madhya Pradesh,Credit Card
+2023-02-06,796.41,747,26.14,Accessories,Maharashtra,UPI
+2023-02-07,785.22,825,26.11,Home Decor,Maharashtra,Credit Card
+2023-02-08,728.62,790,24.05,Clothing,Madhya Pradesh,Credit Card
+2023-02-09,673.31,781,26.48,Clothing,Maharashtra,Debit Card
+2023-02-10,732.17,818,24.08,Home Decor,Delhi,UPI
+2023-02-11,721.67,838,26.22,Electronics,Maharashtra,Credit Card
+2023-02-12,815.77,636,26.27,Clothing,Uttar Pradesh,UPI
+2023-02-13,842.12,730,24.48,Electronics,Madhya Pradesh,COD
+2023-02-14,822.32,748,25.0,Electronics,Uttar Pradesh,UPI
+2023-02-15,771.74,719,24.42,Accessories,Delhi,UPI
+2023-02-16,662.65,884,25.12,Clothing,Madhya Pradesh,UPI
+2023-02-17,662.0,793,25.02,Furniture,Delhi,COD
+2023-02-18,831.38,708,25.87,Home Decor,Madhya Pradesh,UPI
+2023-02-19,850.44,679,26.27,Furniture,Madhya Pradesh,COD
+2023-02-20,822.83,707,26.32,Clothing,Maharashtra,EMI
+2023-02-21,879.02,606,24.73,Electronics,Karnataka,EMI
+2023-02-22,762.9,655,24.99,Home Decor,Uttar Pradesh,Debit Card
+2023-02-23,769.59,833,23.79,Accessories,Maharashtra,Credit Card
+2023-02-24,740.6,704,24.47,Furniture,Madhya Pradesh,Credit Card
+2023-02-25,877.0,614,25.86,Clothing,Uttar Pradesh,COD
+2023-02-26,921.41,517,26.36,Clothing,Karnataka,COD
+2023-02-27,856.62,647,24.06,Home Decor,Uttar Pradesh,COD
+2023-02-28,869.4,598,24.55,Electronics,Delhi,UPI
+2023-03-01,797.4,820,24.98,Accessories,Karnataka,UPI
+2023-03-02,790.21,786,25.2,Clothing,Delhi,UPI
+2023-03-03,712.1,731,24.31,Accessories,Maharashtra,UPI
+2023-03-04,834.55,834,25.28,Accessories,Uttar Pradesh,COD
+2023-03-05,905.81,715,24.53,Clothing,Uttar Pradesh,Debit Card
+2023-03-06,808.24,695,24.88,Furniture,Uttar Pradesh,Debit Card
+2023-03-07,794.94,573,25.31,Clothing,Maharashtra,COD
+2023-03-08,701.48,916,24.85,Clothing,Uttar Pradesh,UPI
+2023-03-09,735.88,675,24.48,Furniture,Uttar Pradesh,UPI
+2023-03-10,790.31,627,24.72,Electronics,Maharashtra,Debit Card
+2023-03-11,877.83,734,24.71,Home Decor,Maharashtra,COD
+2023-03-12,876.78,820,24.46,Clothing,Madhya Pradesh,EMI
+2023-03-13,953.79,710,24.53,Clothing,Madhya Pradesh,UPI
+2023-03-14,796.84,755,26.0,Electronics,Maharashtra,UPI
+2023-03-15,724.4,801,25.15,Furniture,Madhya Pradesh,Debit Card
+2023-03-16,753.63,799,24.44,Electronics,Maharashtra,COD
+2023-03-17,785.87,774,25.21,Accessories,Maharashtra,COD
+2023-03-18,825.03,721,24.37,Clothing,Uttar Pradesh,Debit Card
+2023-03-19,799.43,726,25.55,Electronics,Maharashtra,Debit Card
+2023-03-20,893.1,660,24.89,Clothing,Karnataka,Credit Card
+2023-03-21,807.59,670,24.49,Electronics,Uttar Pradesh,UPI
+2023-03-22,826.74,687,24.91,Clothing,Uttar Pradesh,EMI
+2023-03-23,777.63,631,23.28,Home Decor,Uttar Pradesh,COD
+2023-03-24,739.73,750,23.61,Accessories,Maharashtra,UPI
+2023-03-25,812.3,653,23.54,Clothing,Maharashtra,COD
+2023-03-26,845.97,626,24.59,Furniture,Uttar Pradesh,UPI
+2023-03-27,900.06,670,25.84,Furniture,Madhya Pradesh,COD
+2023-03-28,903.56,741,26.22,Clothing,Madhya Pradesh,UPI
+2023-03-29,765.81,795,24.93,Electronics,Delhi,EMI
+2023-03-30,788.1,632,24.8,Furniture,Maharashtra,Credit Card
+2023-03-31,760.78,684,22.94,Furniture,Delhi,UPI
+2023-04-01,805.49,773,23.93,Electronics,Uttar Pradesh,Credit Card
+2023-04-02,888.1,608,23.72,Clothing,Maharashtra,Debit Card
+2023-04-03,864.89,667,23.84,Accessories,Karnataka,Debit Card
+2023-04-04,846.64,725,24.18,Clothing,Maharashtra,Debit Card
+2023-04-05,760.43,685,23.92,Clothing,Uttar Pradesh,Credit Card
+2023-04-06,849.33,696,22.7,Clothing,Maharashtra,Credit Card
+2023-04-07,785.89,648,24.87,Electronics,Maharashtra,EMI
+2023-04-08,811.4,677,23.4,Clothing,Madhya Pradesh,COD
+2023-04-09,902.81,677,24.43,Accessories,Uttar Pradesh,COD
+2023-04-10,903.37,562,25.88,Clothing,Madhya Pradesh,Credit Card
+2023-04-11,861.19,709,23.48,Furniture,Uttar Pradesh,Credit Card
+2023-04-12,833.86,698,22.17,Electronics,Uttar Pradesh,UPI
+2023-04-13,801.68,752,23.96,Clothing,Uttar Pradesh,COD
+2023-04-14,763.59,755,25.05,Home Decor,Delhi,Credit Card
+2023-04-15,816.37,792,25.73,Furniture,Uttar Pradesh,UPI
+2023-04-16,882.96,677,23.16,Electronics,Maharashtra,Credit Card
+2023-04-17,815.19,685,24.53,Furniture,Delhi,UPI
+2023-04-18,808.52,722,23.75,Electronics,Karnataka,UPI
+2023-04-19,862.76,714,24.03,Clothing,Uttar Pradesh,Debit Card
+2023-04-20,835.67,701,26.22,Electronics,Maharashtra,UPI
+2023-04-21,773.04,738,22.89,Clothing,Madhya Pradesh,UPI
+2023-04-22,860.36,641,24.29,Furniture,Delhi,UPI
+2023-04-23,904.01,617,24.45,Clothing,Uttar Pradesh,UPI
+2023-04-24,1027.72,499,24.94,Clothing,Uttar Pradesh,COD
+2023-04-25,910.92,758,24.14,Home Decor,Uttar Pradesh,COD
+2023-04-26,799.68,645,24.3,Clothing,Uttar Pradesh,Credit Card
+2023-04-27,728.07,721,23.73,Electronics,Uttar Pradesh,Debit Card
+2023-04-28,714.87,727,24.26,Clothing,Karnataka,UPI
+2023-04-29,841.28,748,23.76,Clothing,Maharashtra,COD
+2023-04-30,856.86,668,24.53,Furniture,Madhya Pradesh,COD
+2023-05-01,842.95,769,23.73,Clothing,Delhi,Credit Card
+2023-05-02,835.26,658,24.32,Clothing,Karnataka,UPI
+2023-05-03,756.25,762,23.99,Electronics,Uttar Pradesh,EMI
+2023-05-04,828.21,652,24.91,Clothing,Maharashtra,Credit Card
+2023-05-05,808.56,843,23.97,Clothing,Maharashtra,COD
+2023-05-06,826.72,632,22.59,Accessories,Madhya Pradesh,Credit Card
+2023-05-07,939.94,654,25.01,Clothing,Maharashtra,COD
+2023-05-08,896.29,700,23.28,Clothing,Madhya Pradesh,COD
+2023-05-09,819.77,732,23.48,Clothing,Uttar Pradesh,UPI
+2023-05-10,853.27,676,23.52,Home Decor,Karnataka,Debit Card
+2023-05-11,774.86,727,25.1,Accessories,Maharashtra,Credit Card
+2023-05-12,724.13,768,22.29,Furniture,Uttar Pradesh,Credit Card
+2023-05-13,811.5,704,26.51,Clothing,Maharashtra,Credit Card
+2023-05-14,837.54,755,24.85,Electronics,Uttar Pradesh,UPI
+2023-05-15,829.47,834,24.18,Electronics,Uttar Pradesh,Debit Card
+2023-05-16,882.61,636,23.96,Accessories,Uttar Pradesh,Credit Card
+2023-05-17,859.83,601,24.24,Home Decor,Madhya Pradesh,UPI
+2023-05-18,688.23,781,24.43,Clothing,Karnataka,Credit Card
+2023-05-19,778.78,887,24.53,Clothing,Maharashtra,UPI
+2023-05-20,783.5,681,24.47,Clothing,Uttar Pradesh,UPI
+2023-05-21,843.27,792,24.1,Accessories,Delhi,Debit Card
+2023-05-22,851.05,790,23.87,Home Decor,Maharashtra,Credit Card
+2023-05-23,800.76,686,23.92,Furniture,Delhi,COD
+2023-05-24,774.94,769,23.89,Clothing,Karnataka,UPI
+2023-05-25,700.27,877,24.96,Accessories,Karnataka,UPI
+2023-05-26,756.21,723,24.53,Furniture,Maharashtra,Credit Card
+2023-05-27,796.45,709,21.71,Clothing,Uttar Pradesh,EMI
+2023-05-28,841.94,659,24.6,Furniture,Madhya Pradesh,COD
+2023-05-29,826.99,642,24.24,Accessories,Maharashtra,EMI
+2023-05-30,800.61,680,24.07,Electronics,Delhi,UPI
+2023-05-31,791.39,651,23.79,Electronics,Madhya Pradesh,Debit Card
+2023-06-01,741.55,757,25.01,Clothing,Maharashtra,Debit Card
+2023-06-02,694.11,737,24.88,Accessories,Madhya Pradesh,UPI
+2023-06-03,790.08,739,23.51,Clothing,Maharashtra,COD
+2023-06-04,869.04,585,24.47,Home Decor,Uttar Pradesh,Credit Card
+2023-06-05,783.85,749,23.38,Home Decor,Uttar Pradesh,COD
+2023-06-06,832.59,750,23.06,Furniture,Delhi,Debit Card
+2023-06-07,721.69,647,23.68,Clothing,Karnataka,Debit Card
+2023-06-08,731.21,783,24.88,Furniture,Maharashtra,Debit Card
+2023-06-09,689.42,860,24.97,Clothing,Maharashtra,UPI
+2023-06-10,700.51,707,24.63,Furniture,Delhi,Debit Card
+2023-06-11,760.34,844,24.81,Clothing,Uttar Pradesh,UPI
+2023-06-12,838.88,721,24.66,Clothing,Maharashtra,UPI
+2023-06-13,807.46,673,23.75,Clothing,Madhya Pradesh,UPI
+2023-06-14,698.12,777,24.62,Clothing,Madhya Pradesh,Credit Card
+2023-06-15,719.91,801,24.93,Clothing,Delhi,UPI
+2023-06-16,639.36,820,24.91,Clothing,Maharashtra,UPI
+2023-06-17,755.84,778,25.27,Clothing,Uttar Pradesh,COD
+2023-06-18,762.68,687,24.91,Clothing,Karnataka,UPI
+2023-06-19,796.47,732,24.64,Electronics,Maharashtra,UPI
+2023-06-20,784.46,644,25.23,Clothing,Uttar Pradesh,UPI
+2023-06-21,685.29,782,24.37,Accessories,Delhi,UPI
+2023-06-22,664.33,747,23.7,Electronics,Maharashtra,UPI
+2023-06-23,731.34,717,24.3,Electronics,Madhya Pradesh,UPI
+2023-06-24,720.6,841,23.85,Clothing,Karnataka,COD
+2023-06-25,829.69,767,23.92,Accessories,Maharashtra,Credit Card
+2023-06-26,762.44,779,24.37,Clothing,Maharashtra,UPI
+2023-06-27,788.79,661,23.87,Furniture,Uttar Pradesh,Credit Card
+2023-06-28,762.36,723,24.27,Clothing,Madhya Pradesh,UPI
+2023-06-29,565.79,933,23.03,Clothing,Maharashtra,UPI
+2023-06-30,644.13,822,24.73,Accessories,Uttar Pradesh,COD
+2023-07-01,751.65,888,24.58,Clothing,Madhya Pradesh,UPI
+2023-07-02,773.0,759,23.95,Electronics,Maharashtra,COD
+2023-07-03,807.31,727,25.15,Furniture,Madhya Pradesh,Credit Card
+2023-07-04,728.27,744,25.39,Accessories,Maharashtra,UPI
+2023-07-05,692.98,792,23.38,Clothing,Delhi,EMI
+2023-07-06,643.24,804,24.07,Clothing,Delhi,COD
+2023-07-07,707.54,817,24.09,Clothing,Madhya Pradesh,Credit Card
+2023-07-08,723.57,823,23.97,Accessories,Maharashtra,COD
+2023-07-09,779.47,685,25.41,Clothing,Uttar Pradesh,Credit Card
+2023-07-10,760.85,663,24.61,Clothing,Delhi,COD
+2023-07-11,717.8,659,24.58,Accessories,Maharashtra,COD
+2023-07-12,657.12,836,23.21,Electronics,Madhya Pradesh,Debit Card
+2023-07-13,650.2,743,25.34,Clothing,Madhya Pradesh,EMI
+2023-07-14,628.97,693,23.86,Electronics,Uttar Pradesh,Credit Card
+2023-07-15,710.02,797,24.93,Electronics,Maharashtra,EMI
+2023-07-16,834.06,849,25.12,Accessories,Karnataka,EMI
+2023-07-17,797.31,721,26.01,Clothing,Madhya Pradesh,COD
+2023-07-18,709.47,824,23.9,Clothing,Madhya Pradesh,Credit Card
+2023-07-19,707.74,780,22.55,Clothing,Uttar Pradesh,UPI
+2023-07-20,603.44,832,25.14,Clothing,Uttar Pradesh,Debit Card
+2023-07-21,549.7,925,26.45,Clothing,Uttar Pradesh,UPI
+2023-07-22,643.6,796,26.02,Clothing,Delhi,Debit Card
+2023-07-23,661.8,818,25.22,Clothing,Uttar Pradesh,Debit Card
+2023-07-24,734.08,778,24.68,Home Decor,Uttar Pradesh,Debit Card
+2023-07-25,709.02,734,25.75,Clothing,Maharashtra,UPI
+2023-07-26,712.63,831,24.34,Clothing,Uttar Pradesh,Debit Card
+2023-07-27,618.82,818,25.53,Clothing,Maharashtra,Credit Card
+2023-07-28,608.56,789,25.57,Clothing,Uttar Pradesh,UPI
+2023-07-29,703.31,810,26.04,Clothing,Karnataka,UPI
+2023-07-30,634.52,765,27.42,Clothing,Maharashtra,Debit Card
+2023-07-31,744.03,755,25.55,Clothing,Madhya Pradesh,Debit Card
+2023-08-01,725.71,764,24.85,Accessories,Maharashtra,UPI
+2023-08-02,573.16,921,25.25,Accessories,Uttar Pradesh,COD
+2023-08-03,638.37,845,23.88,Clothing,Delhi,Credit Card
+2023-08-04,617.89,827,24.76,Furniture,Karnataka,Debit Card
+2023-08-05,640.7,864,25.01,Electronics,Maharashtra,UPI
+2023-08-06,735.61,842,24.94,Clothing,Madhya Pradesh,Debit Card
+2023-08-07,812.92,745,25.5,Clothing,Madhya Pradesh,Debit Card
+2023-08-08,689.81,786,24.74,Electronics,Maharashtra,UPI
+2023-08-09,630.05,743,26.32,Clothing,Maharashtra,UPI
+2023-08-10,562.24,798,25.44,Clothing,Delhi,UPI
+2023-08-11,558.53,846,25.45,Furniture,Uttar Pradesh,COD
+2023-08-12,678.88,756,25.22,Accessories,Maharashtra,UPI
+2023-08-13,664.6,790,25.62,Accessories,Madhya Pradesh,Debit Card
+2023-08-14,713.7,775,26.18,Furniture,Uttar Pradesh,EMI
+2023-08-15,652.36,840,24.84,Accessories,Uttar Pradesh,UPI
+2023-08-16,628.42,818,25.03,Accessories,Maharashtra,UPI
+2023-08-17,583.3,879,25.33,Accessories,Maharashtra,UPI
+2023-08-18,623.57,829,24.52,Electronics,Delhi,Debit Card
+2023-08-19,615.02,712,24.95,Furniture,Maharashtra,COD
+2023-08-20,678.02,736,25.25,Home Decor,Madhya Pradesh,Credit Card
+2023-08-21,661.87,794,26.34,Clothing,Karnataka,Debit Card
+2023-08-22,644.11,740,25.87,Accessories,Madhya Pradesh,COD
+2023-08-23,614.99,867,25.83,Home Decor,Uttar Pradesh,EMI
+2023-08-24,591.1,937,26.37,Clothing,Maharashtra,COD
+2023-08-25,536.28,951,25.6,Furniture,Uttar Pradesh,UPI
+2023-08-26,661.55,790,26.04,Clothing,Madhya Pradesh,Credit Card
+2023-08-27,734.62,848,25.66,Furniture,Uttar Pradesh,UPI
+2023-08-28,709.39,783,25.97,Clothing,Maharashtra,UPI
+2023-08-29,729.03,742,25.3,Home Decor,Karnataka,Credit Card
+2023-08-30,561.27,826,23.83,Home Decor,Delhi,COD
+2023-08-31,503.61,879,25.69,Electronics,Karnataka,Credit Card
+2023-09-01,494.86,879,26.95,Clothing,Maharashtra,Credit Card
+2023-09-02,679.7,802,26.56,Electronics,Maharashtra,Credit Card
+2023-09-03,699.93,789,26.61,Home Decor,Delhi,Credit Card
+2023-09-04,684.25,789,26.84,Accessories,Delhi,COD
+2023-09-05,659.05,830,25.93,Electronics,Uttar Pradesh,EMI
+2023-09-06,541.37,946,26.03,Furniture,Madhya Pradesh,Debit Card
+2023-09-07,645.67,869,25.39,Furniture,Madhya Pradesh,UPI
+2023-09-08,565.89,771,25.64,Clothing,Delhi,COD
+2023-09-09,619.23,675,26.39,Electronics,Karnataka,Credit Card
+2023-09-10,698.06,837,26.87,Furniture,Delhi,COD
+2023-09-11,701.27,697,25.81,Accessories,Madhya Pradesh,COD
+2023-09-12,652.65,794,25.57,Electronics,Uttar Pradesh,COD
+2023-09-13,550.9,799,25.94,Furniture,Maharashtra,COD
+2023-09-14,563.12,754,26.42,Electronics,Maharashtra,COD
+2023-09-15,632.71,852,24.8,Clothing,Delhi,Credit Card
+2023-09-16,665.67,846,24.12,Electronics,Delhi,Debit Card
+2023-09-17,730.06,727,25.52,Electronics,Uttar Pradesh,Debit Card
+2023-09-18,659.18,649,24.99,Furniture,Madhya Pradesh,COD
+2023-09-19,602.0,806,25.57,Home Decor,Uttar Pradesh,UPI
+2023-09-20,575.68,878,25.86,Home Decor,Uttar Pradesh,COD
+2023-09-21,544.98,784,25.62,Clothing,Delhi,COD
+2023-09-22,599.99,851,27.15,Electronics,Madhya Pradesh,COD
+2023-09-23,543.26,873,26.25,Electronics,Karnataka,COD
+2023-09-24,726.91,798,26.23,Furniture,Maharashtra,UPI
+2023-09-25,673.02,803,26.49,Accessories,Maharashtra,COD
+2023-09-26,624.52,766,25.09,Clothing,Maharashtra,UPI
+2023-09-27,540.55,947,26.83,Clothing,Karnataka,Credit Card
+2023-09-28,477.19,904,25.94,Clothing,Madhya Pradesh,Debit Card
+2023-09-29,590.1,844,26.54,Clothing,Delhi,Debit Card
+2023-09-30,615.14,774,25.14,Clothing,Maharashtra,EMI
+2023-10-01,615.69,803,24.76,Clothing,Maharashtra,COD
+2023-10-02,629.41,769,26.65,Clothing,Madhya Pradesh,Credit Card
+2023-10-03,630.35,811,26.3,Home Decor,Maharashtra,COD
+2023-10-04,650.29,912,25.27,Furniture,Madhya Pradesh,Credit Card
+2023-10-05,535.8,796,25.3,Clothing,Delhi,Debit Card
+2023-10-06,500.16,803,26.89,Clothing,Uttar Pradesh,EMI
+2023-10-07,605.8,924,25.03,Clothing,Karnataka,Credit Card
+2023-10-08,660.12,791,27.29,Electronics,Maharashtra,Credit Card
+2023-10-09,577.38,813,25.26,Clothing,Maharashtra,EMI
+2023-10-10,645.97,874,26.48,Home Decor,Uttar Pradesh,UPI
+2023-10-11,578.96,816,25.7,Electronics,Maharashtra,COD
+2023-10-12,579.01,962,26.44,Accessories,Madhya Pradesh,UPI
+2023-10-13,639.52,856,25.52,Clothing,Madhya Pradesh,Credit Card
+2023-10-14,666.29,770,25.82,Furniture,Uttar Pradesh,UPI
+2023-10-15,666.17,929,25.97,Electronics,Karnataka,UPI
+2023-10-16,647.2,775,25.13,Electronics,Maharashtra,UPI
+2023-10-17,757.58,789,26.52,Clothing,Delhi,Credit Card
+2023-10-18,597.37,859,25.5,Clothing,Uttar Pradesh,Debit Card
+2023-10-19,558.84,942,25.72,Accessories,Delhi,UPI
+2023-10-20,572.02,950,25.1,Home Decor,Madhya Pradesh,EMI
+2023-10-21,636.87,819,23.83,Clothing,Karnataka,COD
+2023-10-22,679.17,747,25.72,Clothing,Madhya Pradesh,EMI
+2023-10-23,676.83,821,27.79,Accessories,Maharashtra,COD
+2023-10-24,641.38,774,26.48,Clothing,Maharashtra,Credit Card
+2023-10-25,602.6,959,25.82,Clothing,Delhi,Credit Card
+2023-10-26,545.74,880,25.62,Home Decor,Maharashtra,Credit Card
+2023-10-27,553.96,845,25.83,Clothing,Maharashtra,UPI
+2023-10-28,642.98,825,26.24,Electronics,Uttar Pradesh,UPI
+2023-10-29,684.81,708,24.84,Clothing,Madhya Pradesh,COD
+2023-10-30,770.28,679,26.67,Accessories,Madhya Pradesh,Credit Card
+2023-10-31,567.85,931,26.33,Electronics,Karnataka,UPI
+2023-11-01,658.48,765,26.32,Clothing,Maharashtra,Credit Card
+2023-11-02,628.5,760,26.08,Electronics,Delhi,UPI
+2023-11-03,511.0,925,25.73,Furniture,Maharashtra,UPI
+2023-11-04,636.74,889,26.24,Accessories,Maharashtra,COD
+2023-11-05,692.15,827,26.16,Clothing,Maharashtra,EMI
+2023-11-06,666.09,860,25.38,Clothing,Delhi,UPI
+2023-11-07,655.31,761,25.19,Accessories,Maharashtra,Debit Card
+2023-11-08,583.19,764,25.71,Home Decor,Karnataka,EMI
+2023-11-09,661.8,892,26.86,Home Decor,Delhi,UPI
+2023-11-10,644.67,793,24.61,Clothing,Maharashtra,Credit Card
+2023-11-11,714.87,756,24.41,Clothing,Madhya Pradesh,UPI
+2023-11-12,749.68,829,25.69,Furniture,Maharashtra,Credit Card
+2023-11-13,691.28,818,25.58,Clothing,Delhi,COD
+2023-11-14,679.74,819,25.66,Furniture,Maharashtra,Debit Card
+2023-11-15,661.73,932,25.7,Electronics,Madhya Pradesh,Credit Card
+2023-11-16,557.6,826,25.31,Electronics,Maharashtra,EMI
+2023-11-17,650.77,865,26.66,Accessories,Madhya Pradesh,UPI
+2023-11-18,669.63,801,24.17,Electronics,Madhya Pradesh,EMI
+2023-11-19,721.28,783,24.76,Electronics,Delhi,UPI
+2023-11-20,780.57,823,25.32,Accessories,Madhya Pradesh,COD
+2023-11-21,734.39,789,24.07,Clothing,Uttar Pradesh,UPI
+2023-11-22,643.83,846,25.23,Electronics,Karnataka,EMI
+2023-11-23,669.18,862,26.67,Accessories,Uttar Pradesh,COD
+2023-11-24,595.53,820,25.34,Electronics,Madhya Pradesh,Credit Card
+2023-11-25,720.61,717,25.49,Furniture,Madhya Pradesh,UPI
+2023-11-26,776.93,671,24.27,Clothing,Delhi,Credit Card
+2023-11-27,756.87,627,24.77,Electronics,Maharashtra,UPI
+2023-11-28,746.97,875,24.94,Clothing,Uttar Pradesh,Debit Card
+2023-11-29,625.71,758,24.96,Furniture,Madhya Pradesh,COD
+2023-11-30,677.45,780,26.22,Clothing,Madhya Pradesh,COD
+2023-12-01,649.23,793,25.62,Electronics,Maharashtra,COD
+2023-12-02,693.09,802,24.26,Clothing,Uttar Pradesh,UPI
+2023-12-03,813.36,760,25.33,Furniture,Madhya Pradesh,UPI
+2023-12-04,759.43,795,25.51,Furniture,Maharashtra,Credit Card
+2023-12-05,696.1,747,26.0,Electronics,Maharashtra,UPI
+2023-12-06,632.16,810,26.33,Electronics,Karnataka,UPI
+2023-12-07,683.54,806,24.23,Clothing,Maharashtra,Credit Card
+2023-12-08,624.37,810,24.37,Accessories,Maharashtra,EMI
+2023-12-09,803.29,814,23.99,Clothing,Uttar Pradesh,Debit Card
+2023-12-10,707.35,805,24.79,Accessories,Uttar Pradesh,Debit Card
+2023-12-11,874.82,719,25.33,Electronics,Maharashtra,EMI
+2023-12-12,780.37,771,25.72,Clothing,Madhya Pradesh,COD
+2023-12-13,710.16,844,24.85,Clothing,Karnataka,COD
+2023-12-14,657.22,816,24.63,Clothing,Delhi,UPI
+2023-12-15,711.38,695,24.99,Clothing,Madhya Pradesh,UPI
+2023-12-16,751.53,773,24.17,Furniture,Karnataka,Credit Card
+2023-12-17,854.8,648,26.49,Clothing,Karnataka,Credit Card
+2023-12-18,831.66,669,23.51,Clothing,Madhya Pradesh,EMI
+2023-12-19,798.16,756,24.92,Clothing,Delhi,COD
+2023-12-20,719.79,842,26.37,Clothing,Madhya Pradesh,COD
+2023-12-21,697.13,782,24.74,Clothing,Delhi,EMI
+2023-12-22,728.19,781,24.56,Furniture,Uttar Pradesh,COD
+2023-12-23,705.15,879,24.4,Home Decor,Madhya Pradesh,UPI
+2023-12-24,777.33,748,24.53,Clothing,Uttar Pradesh,Credit Card
+2023-12-25,877.48,829,25.75,Furniture,Madhya Pradesh,Debit Card
+2023-12-26,819.68,742,22.86,Electronics,Uttar Pradesh,Debit Card
+2023-12-27,747.73,645,25.83,Clothing,Maharashtra,COD
+2023-12-28,720.94,812,23.45,Clothing,Maharashtra,EMI
+2023-12-29,750.61,772,24.35,Furniture,Karnataka,Credit Card
+2023-12-30,772.83,813,24.2,Clothing,Delhi,Debit Card
+2023-12-31,821.01,747,25.0,Furniture,Maharashtra,Credit Card
