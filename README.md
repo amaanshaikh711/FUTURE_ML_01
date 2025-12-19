@@ -49,4 +49,4 @@ The application expects a CSV file with at least the following columns:
 The core forecasting engine uses **Facebook Prophet**, an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality.
 
 ---
-**Created by Antigravity AI**
+**Created by Aman Shaikh**
