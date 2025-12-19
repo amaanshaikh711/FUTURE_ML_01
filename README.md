@@ -1,6 +1,6 @@
 # AI-Powered Retail Sales Forecasting Dashboard 📈
 
-![Demo](assets/demo.png)
+![Demo](/demo.png)
 
 A complete end-to-end Machine Learning solution for retail sales prediction using **Facebook Prophet**. This dashboard provides interactive visualizations, trend analysis, and performance metrics t[...]
 
