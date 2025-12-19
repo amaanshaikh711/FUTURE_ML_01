@@ -37,7 +37,7 @@ Future Interns/
 
 2. **Run the Dashboard**:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py --server.port 8501
    ```
 
 ## 📊 Dataset Requirement
